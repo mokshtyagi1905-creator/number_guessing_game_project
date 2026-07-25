@@ -95,7 +95,6 @@ GuessMaster/
 ├── main.py
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── screenshots/
 └── videos/
 ```
