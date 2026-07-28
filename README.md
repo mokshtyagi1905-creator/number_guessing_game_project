@@ -97,6 +97,7 @@ GuessMaster/
 ├── LICENSE
 ├── screenshots/
 └── videos/
+|__.gitignore
 ```
 
 ---
